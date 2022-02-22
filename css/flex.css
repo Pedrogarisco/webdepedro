@@ -1,0 +1,25 @@
+#contenedor{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;/*es por defecto*/
+    justify-content:center;
+    width: 95%;
+    height: 500px;
+    background-color: aqua;
+    color: black;
+    font-size: 30px;}
+#verde{background-color: green;
+    width: 20%;
+    border: solid black;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    color: black;}
+#amarillo{background-color: yellow;
+    width: 20%;
+    border: solid black;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    color: black;}
+    .fuenteletra{font-family: 'Comforter', cursive;
+        border: 5px pink solid;}
